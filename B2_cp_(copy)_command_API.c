@@ -50,8 +50,10 @@ int main(int argc, char* argv[])
 }
 
 
-/*Output: [UNIXLAB@localhost ~]$ gcc -0 p.out prgm1.c
-UNIXLAB@localhost ~]$cat >h.txt 
+/*Output: Output: gcc prgm2.c
+[UNIXLAB@localhost ~]$ ./a.out q.txt j.txt
+UNIXLAB@localhost ~]$cat q.txt
 hello
-UNIXLAB@localhost ~]$./p.out h.txt 
-hello */
+UNIXLAB@localhost ~]$cat j.txt
+hello*/
+
