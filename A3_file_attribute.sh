@@ -53,3 +53,10 @@ echo "File is a character file "
  else 
 echo "File is not a character file" 
 fi 
+
+
+output: [LabExam@ISELAB1 ~]$ sh pr3.sh
+
+[LabExam@ISELAB1 ~]$chmod a+x pr3.sh
+[LabExam@ISELAB1 ~]$sh pr3.sh
+
