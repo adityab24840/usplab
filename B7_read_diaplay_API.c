@@ -25,3 +25,15 @@ putchar(ch);
 fclose(fp);
 return(0);
 }
+
+
+/* Output
+
+cat > l.txt
+hello world hai beautiful girl
+
+gcc p55.c
+[UNIXLAB@localhost ~]$ ./a.out p55.c
+Enter the value of num:4
+Girl
+*/
