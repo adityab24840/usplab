@@ -58,5 +58,14 @@ fi
 /*output: [LabExam@ISELAB1 ~]$ sh pr3.sh
 
 [LabExam@ISELAB1 ~]$chmod a+x pr3.sh
-[LabExam@ISELAB1 ~]$sh pr3.sh */
+[LabExam@ISELAB1 ~]$sh pr3.sh
+
+File has read permission
+File has write permission
+File has execute permission
+File is an ordinary file
+File size is greater than zero
+File exists
+File is not a character file is not a block file
+ */
 
