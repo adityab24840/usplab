@@ -43,4 +43,14 @@ fi
 
 
 /* output[LabExam@ISELAB1 ~]$chmod a+x pr2.sh
-[LabExam@ISELAB1 ~]$sh pr2.sh  */
+[LabExam@ISELAB1 ~]$sh pr2.sh 
+Sum = 8
+Difference = -2
+Product =8
+Quotient =2
+Modulus =2
+a is not equal to b
+a is not equal to b
+True
+False
+*/
