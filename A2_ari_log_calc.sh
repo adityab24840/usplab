@@ -41,3 +41,6 @@ else
 echo “False”
 fi
 
+
+/* output[LabExam@ISELAB1 ~]$chmod a+x pr2.sh
+[LabExam@ISELAB1 ~]$sh pr2.sh  */
