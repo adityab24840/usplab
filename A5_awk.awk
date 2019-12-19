@@ -4,7 +4,7 @@ BEGIN {print “START”}
 END {print “DONE”}
 
 
-*/output:
+/*output:
  [LabExam@ISELAB1 ~]$ awk -f pr5.awk a.txt
 And am
 You can
