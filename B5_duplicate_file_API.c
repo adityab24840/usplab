@@ -26,3 +26,15 @@ printf("Fd %d duplicated with %d\n",fd,nfd);
 close(fd);
 close(nfd);
 }
+
+
+/* Output: gcc prgm.c
+
+[UNIXLAB@localhost ~]$ ./a.out  ll.txt
+Fd 3 duplicated with 4
+
+
+gcc prgm.c
+[UNIXLAB@localhost ~]$ ./a.out  ll.txt
+Fd 3 duplicated with 4
+*/
