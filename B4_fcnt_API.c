@@ -39,3 +39,11 @@ putchar('\n');
 exit(0);
 
 }
+
+
+/* Output:
+
+ gcc p22.c
+[UNIXLAB@localhost ~]$ ./a.out p22.c
+Read-Write
+*/
