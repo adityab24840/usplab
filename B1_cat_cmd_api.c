@@ -21,3 +21,10 @@ printf("%c",buf[0]);
 close(fd);
 }
 }
+
+
+/*Output: [UNIXLAB@localhost ~]$ gcc -0 p.out prgm1.c
+UNIXLAB@localhost ~]$cat >h.txt 
+hello
+UNIXLAB@localhost ~]$./p.out h.txt 
+hello*/
