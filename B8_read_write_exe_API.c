@@ -49,3 +49,12 @@ printf("\n  Other read permission  UNMASKEDn");
 printf("\n  Other write permission  MASKEDn");
 printf("\n  Other execute permission  MASKEDn");
 }
+
+
+/* Output:
+
+gcc p77.c
+[UNIXLAB@localhost ~]$ ./a.out p77.c
+
+ Old mask = 2n
+*/
