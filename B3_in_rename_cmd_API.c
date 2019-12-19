@@ -19,3 +19,11 @@ sprint(str,”ls –i %s %s \n”,argv[1],argv[2]);
 system(str);
 return 0;
 }
+
+
+/* Output: gcc prgm1.c
+[UNIXLAB@localhost ~]$ ./a.out j.txt q.txt
+Files linked
+Inode number of linked files
+416529 j.txt 416529 q.txt
+*/
