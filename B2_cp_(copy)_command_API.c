@@ -48,3 +48,10 @@ int main(int argc, char* argv[])
  
 	exit(EXIT_SUCCESS);
 }
+
+
+/*Output: [UNIXLAB@localhost ~]$ gcc -0 p.out prgm1.c
+UNIXLAB@localhost ~]$cat >h.txt 
+hello
+UNIXLAB@localhost ~]$./p.out h.txt 
+hello */
