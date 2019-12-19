@@ -15,8 +15,8 @@ ps -t
 echo "ps -t : processes running on terminal -l along listing showing memory related information"
 
 
-output:
+/*output:
  [LabExam@ISELAB1 ~]$ sh pr4.sh
 
 [LabExam@ISELAB1 ~]$chmod a+x pr4.sh
-[LabExam@ISELAB1 ~]$sh pr4.sh
+[LabExam@ISELAB1 ~]$sh pr4.sh */
