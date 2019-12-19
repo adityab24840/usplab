@@ -43,3 +43,12 @@ printf("Mode:   %lo(octal)\n", (unsigned long) sb.st_mode);
 printf("Blocks allocated:   %lld\n", (long long) sb.st_blocks);
 exit(EXIT_SUCCESS);
 }
+
+
+/* Output: gcc prgm.c
+[UNIXLAB@localhost ~]$ ./a.out  prgm.c
+File type: regular
+Inode number: 1067168
+Mode: 100664(octal)
+Blocks allocated: 8
+*/
