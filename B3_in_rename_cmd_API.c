@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 if(argc!=3)
 {
 printf("usage: %s <src_file><dest_file>\n",argv[0]);
-Return 0;
+return 0;
 }
 if(link(argv[1],argv[2])==-1)
 {
