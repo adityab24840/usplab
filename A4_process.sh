@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 ps
 echo "ps : process status"
 ps -f
