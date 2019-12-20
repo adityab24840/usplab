@@ -29,7 +29,7 @@ return(0);
 
 /* Output
 
-cat > l.txt
+cat > file.txt
 hello world hai beautiful girl
 
 gcc p55.c
