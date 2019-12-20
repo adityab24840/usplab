@@ -15,7 +15,7 @@ return 1;
 printf("files linked\n");
 printf("Inode number of linked files\n");
 char str[100];
-sprint(str,”ls –i %s %s \n”,argv[1],argv[2]);
+sprint(str,"ls –i %s %s \n",argv[1],argv[2]);
 system(str);
 return 0;
 }
